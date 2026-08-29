@@ -1,5 +1,4 @@
-{
-  "entities": {
+"entities": {
     "UserProfile": {
       "collection": "users",
       "fields": {
